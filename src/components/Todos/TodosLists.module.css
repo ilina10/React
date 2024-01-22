@@ -1,0 +1,20 @@
+.todos {
+  margin: 2rem auto;
+  width: 90%;
+  max-width: 40rem;
+  font-size: large;
+}
+
+.todos ul {
+  list-style: none;
+  padding: 1rem;
+}
+
+.todos li {
+  border: 1px solid #f64c72;
+  margin: 0.5rem 0;
+  padding: 0.5rem;
+  color: wheat;
+  display: flex;
+  justify-content: space-between;
+}
